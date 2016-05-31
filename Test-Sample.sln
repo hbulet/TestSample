@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1001Prime", "1001Prime\1001
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{C0DEEF37-5266-4DD6-B16D-1B94CEC99DE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectDuplicates", "DetectDuplicates\DetectDuplicates.csproj", "{A5D27F67-8B30-46EB-9BDE-E8BF74C8250A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C0DEEF37-5266-4DD6-B16D-1B94CEC99DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0DEEF37-5266-4DD6-B16D-1B94CEC99DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0DEEF37-5266-4DD6-B16D-1B94CEC99DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5D27F67-8B30-46EB-9BDE-E8BF74C8250A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D27F67-8B30-46EB-9BDE-E8BF74C8250A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D27F67-8B30-46EB-9BDE-E8BF74C8250A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D27F67-8B30-46EB-9BDE-E8BF74C8250A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
